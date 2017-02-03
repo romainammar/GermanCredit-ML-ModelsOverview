@@ -14,3 +14,5 @@ This notebook is organized as follows:
 - Preparing the data
 - Model running
 - Model evaluation
+
+[View Notebook](http://nbviewer.jupyter.org/github/romainammar/GermanCredit-ML-ModelsOverview/blob/master/German%20Credit%20Loans%20-%20ML%20Algorithms%20.ipynb)
